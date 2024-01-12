@@ -89,13 +89,22 @@ Modules Utilized
 - Os
 - Seaborn
 - Datetime
-  
+
+
+----------------------------------------------------------------------------------------------
+Tableau
+----------------------------------------------------------------------------------------------
+https://public.tableau.com/views/Executive_Study_Tableau/SampleDeviationCharts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+<img width="676" alt="image" src="https://github.com/lleiva25/Executive_Study_Analysis/assets/140974405/8fd819e8-f4e4-45ed-96eb-1bf04e3f9f83">
+
+<img width="676" alt="image" src="https://github.com/lleiva25/Executive_Study_Analysis/assets/140974405/372c4612-d6e7-4d67-b844-d080e596660c">
+
 ----------------------------------------------------------------------------------------------
 Future Improvements
 ----------------------------------------------------------------------------------------------
 - Optimizing and condensing code utilized for repetitive steps.
 - Provide insights into the status of samples when received/processed.
-- Create a Tableau dashboard for this dataset for interactivity and easier comprehension.
 
 ----------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------
